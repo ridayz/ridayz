@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Halo, gua Ridwan!
+# 👋 Hellooo!
 
 **Network engineer yang suka ngoprek — MikroTik • GNS3 labs • Node.js • AI agents**
 
