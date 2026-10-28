@@ -1,56 +1,93 @@
 ﻿<div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="ridayz - Mockup Designer" />
+<img src="assets/banner.svg" width="100%" alt="ridayz - UI/UX Mockup Designer" />
 
 <a href="https://github.com/ridayz">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Halo,+saya+ridayz;Pembuat+Mockup+%7C+UI+Designer;Wireframe+%E2%86%92+Prototype+%E2%86%92+Siap+Dikode;Ide+yang+bisa+dilihat,+bukan+cuma+dibayang" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Hi,+I%27m+ridayz;UI%2FUX+Mockup+Designer;Wireframe+%E2%86%92+Prototype+%E2%86%92+Ready+to+Build;Ideas+you+can+see,+not+just+imagine" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <p>
   <a href="https://github.com/ridayz"><img src="https://img.shields.io/badge/GitHub-%40ridayz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://github.com/ridayz/reouter"><img src="https://img.shields.io/badge/ReOUTER-AI%20Gateway-8b5cf6?style=for-the-badge&logo=robot&logoColor=white" alt="ReOUTER"/></a>
-  <img src="https://img.shields.io/badge/Mockup%20Designer-UI%2FUX-a78bfa?style=for-the-badge&logo=figma&logoColor=white" alt="Mockup Designer"/>
+  <img src="https://img.shields.io/badge/UI%2FUX%20Mockup%20Designer-8b5cf6?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Mockup Designer"/>
+  <a href="https://github.com/ridayz/reouter"><img src="https://img.shields.io/badge/ReOUTER-AI%20Gateway-a78bfa?style=for-the-badge&logo=robot&logoColor=white" alt="ReOUTER"/></a>
   <img src="https://komarev.com/ghpvc/?username=ridayz&style=flat-square&color=8b5cf6&label=Profile%20views" alt="Profile views"/>
 </p>
 
-> Desain yang bagus itu yang bikin orang langsung paham cara pakainya.
+> **Good design is when someone understands how to use it without being told.**
 
 </div>
 
 ---
 
-## Yang Saya Kerjakan
+## What I Do
 
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Wireframe-8b5cf6?style=for-the-badge&logo=figma&logoColor=white"/><br/><br/>
-      <b>Wireframe & Prototype</b><br/>
-      <sub>Sketsa struktur sampai jadi tampilan yang bisa diklik dan diuji.</sub>
+      <img src="https://img.shields.io/badge/Wireframing-8b5cf6?style=for-the-badge&logo=figma&logoColor=white"/><br/><br/>
+      <b>Wireframe & Layout</b><br/>
+      <sub>Low-fidelity structure: grid, hierarchy, and user flow before pixels.</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Dashboard-a78bfa?style=for-the-badge&logo=figma&logoColor=white"/><br/><br/>
-      <b>UI Dashboard</b><br/>
-      <sub>Layout admin & analytics: sidebar, stat card, tabel, chart.</sub>
+      <img src="https://img.shields.io/badge/Prototyping-a78bfa?style=for-the-badge&logo=figma&logoColor=white"/><br/><br/>
+      <b>Interactive Prototype</b><br/>
+      <sub>Clickable mockups so ideas can be tested before any code exists.</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Design%20System-6366f1?style=for-the-badge&logo=figma&logoColor=white"/><br/><br/>
-      <b>Design System</b><br/>
-      <sub>Palet warna, tipografi, komponen yang konsisten.</sub>
+      <img src="https://img.shields.io/badge/Dashboard%20UI-22d3ee?style=for-the-badge&logo=figma&logoColor=white"/><br/><br/>
+      <b>Dashboard & Admin UI</b><br/>
+      <sub>Sidebar, stat cards, data tables, charts, and empty states.</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/Handoff-22c55e?style=for-the-badge&logo=html5&logoColor=white"/><br/><br/>
-      <b>Handoff ke Code</b><br/>
-      <sub>Mockup siap diterjemahkan jadi HTML/CSS/JS.</sub>
+      <b>Design to Code Handoff</b><br/>
+      <sub>Mockups delivered ready to translate into HTML/CSS/JS.</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## Karya Pilihan
+## UI/UX Skills
+
+<div align="center">
+
+### Design Process
+
+<img src="https://img.shields.io/badge/User%20Flow-8b5cf6?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Information%20Architecture-a78bfa?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireframing-6366f1?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prototyping-8b5cf6?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Usability%20Testing-22d3ee?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Responsive%20Design-22c55e?style=flat-square&logo=figma&logoColor=white"/>
+
+### Visual & System
+
+<img src="https://img.shields.io/badge/Design%20System-0ea5e9?style=flat-square&logo=storybook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Color%20%26%20Typography-a78bfa?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Component%20Library-6366f1?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dark%20Theme%20Design-8b5cf6?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Accessibility%20(WCAG)-22c55e?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Design%20Tokens-22d3ee?style=flat-square&logo=figma&logoColor=white"/>
+
+### Tools
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Moqups-8b5cf6?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+
+</div>
+
+---
+
+## Selected Work
 
 <div align="center">
 
@@ -62,33 +99,12 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/ridayz?tab=repositories"><img src="https://img.shields.io/badge/Lihat%20semua%2032%20repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Semua repo"/></a>
+  <a href="https://github.com/ridayz?tab=repositories"><img src="https://img.shields.io/badge/View%20all%2032%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All repos"/></a>
 </div>
 
 ---
 
-## Tools & Skill
-
-<div align="center">
-
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![UI Design](https://img.shields.io/badge/-UI%20Design-8b5cf6?style=flat&logo=figma&logoColor=white)
-![Wireframe](https://img.shields.io/badge/-Wireframing-a78bfa?style=flat&logo=figma&logoColor=white)
-![Prototyping](https://img.shields.io/badge/-Prototyping-6366f1?style=flat&logo=figma&logoColor=white)
-![Design System](https://img.shields.io/badge/-Design%20System-0ea5e9?style=flat&logo=storybook&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-</div>
-
----
-
-## Aktivitas & Statistik
+## Activity & Stats
 
 <div align="center">
 
@@ -104,7 +120,7 @@
 
 </div>
 
-### Grafik Kontribusi
+### Contribution Graph
 
 <div align="center">
 
@@ -116,14 +132,14 @@
 
 <div align="center">
 
-### Mari Bekerja Sama
+### Let's Work Together
 
-Butuh mockup buat aplikasi, dashboard, atau landing page?<br/>
-Saya bantu dari sketsa kasar sampai tampilan siap dibangun.
+Need a mockup for your app, dashboard, or landing page?<br/>
+I take rough ideas and turn them into interfaces that are ready to build.
 
 <br/>
 
-[![Hubungi saya](https://img.shields.io/badge/-Hubungi%20saya-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ridayz)
+[![Get in touch](https://img.shields.io/badge/-Get%20in%20touch-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ridayz)
 
 <br/>
 
